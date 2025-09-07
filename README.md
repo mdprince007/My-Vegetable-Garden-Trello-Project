@@ -22,6 +22,8 @@ Here’s a glimpse of my Trello board:
 
 ![Trello Board](./screenshots/board.png)  
 *(Replace this with your actual screenshot image)*  
+<img width="1162" height="504" alt="Dashboard" src="https://github.com/mdprince007/My-Vegetable-Garden-Trello-Project/blob/main/My%20%20Vegatables%20Garden.png" />
+
 
 ---
 
