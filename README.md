@@ -13,6 +13,7 @@ Trello helped me stay organized and made the entire process fun and productive.
 - 🌱 **Checklists** → Daily reminders so nothing gets missed  
 - 🍅 **Labels** → Priorities like `High 🔴`, `Medium 🟡`, `Low 🟢`  
 - 📸 **Photos** → Attached progress pictures of my plants  
+<img width="1162" height="504" alt="**Photos**" src="https://github.com/mdprince007/My-Vegetable-Garden-Trello-Project/blob/main/My%20%20Vegatables%20Garden.png" />
 - ⏰ **Deadlines** → Added due dates to stay consistent  
 - 📊 **Visual Tracking** → Easy-to-see progress with cards & lists  
 
